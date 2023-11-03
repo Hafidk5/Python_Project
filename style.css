@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  background-color: #0074d9;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 20px auto;
+  width: 80%;
+  border: 1px solid #ddd;
+  background-color: #fff;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  text-align: left;
+  padding: 8px;
+}
+
+th {
+  background-color: #333;
+  color: white;
+}
+
+tr.online {
+  background-color: #eaffea; /* Subtiel groene achtergrond voor online servers */
+}
+
+tr.offline {
+  background-color: #ffd6d6; /* Subtiel rode achtergrond voor offline servers */
+}
