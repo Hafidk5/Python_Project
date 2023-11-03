@@ -32,9 +32,9 @@ th {
 }
 
 tr.online {
-  background-color: #eaffea; /* Subtiel groene achtergrond voor online servers */
+  background-color: #eaffea; 
 }
 
 tr.offline {
-  background-color: #ffd6d6; /* Subtiel rode achtergrond voor offline servers */
+  background-color: #ffd6d6; 
 }
